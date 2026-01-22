@@ -27,6 +27,12 @@ I am learning HTML and CSS step by step.
 - Added 4 sections: Home, About, Services, Contact
 - Styled navbar and sections with CSS
 
+## Day 5 – Buttons + Cards + Mini Project
+- Added buttons in boxes and sections
+- Added cards in Services section
+- Completed mini-project layout
+- Job-ready frontend project
+
 ### Next Steps
 - Learn more about HTML elements
 - Explore CSS properties like margins, padding, and borders
