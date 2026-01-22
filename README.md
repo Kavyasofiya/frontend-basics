@@ -22,6 +22,10 @@ I am learning HTML and CSS step by step.
 - Used CSS flex to arrange boxes side by side
 - Added padding, margin, border, and box shadow
 
+## Day 4 – Navbar + Sections
+- Added navigation bar with links
+- Added 4 sections: Home, About, Services, Contact
+- Styled navbar and sections with CSS
 
 ### Next Steps
 - Learn more about HTML elements
