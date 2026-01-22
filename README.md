@@ -17,6 +17,11 @@ I am learning HTML and CSS step by step.
 - Linked `style.css` to `index.html`
 
 ---
+## Day 3 – Layout & Box Model
+- Added div elements for layout
+- Used CSS flex to arrange boxes side by side
+- Added padding, margin, border, and box shadow
+
 
 ### Next Steps
 - Learn more about HTML elements
